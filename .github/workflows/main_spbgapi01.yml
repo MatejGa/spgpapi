@@ -41,4 +41,4 @@ jobs:
           app-name: 'spbgapi01'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62ECEFAD6FFB43A387D60455D254A14F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82527A3B494D463A9A7EF87E72C135F7 }}
